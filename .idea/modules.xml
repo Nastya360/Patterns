@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/carddelivery.test.iml" filepath="$PROJECT_DIR$/.idea/modules/carddelivery.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patterns.iml" filepath="$PROJECT_DIR$/.idea/patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/testmode.test.iml" filepath="$PROJECT_DIR$/.idea/modules/testmode.test.iml" />
     </modules>
   </component>
 </project>
